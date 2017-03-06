@@ -4,6 +4,8 @@ v.1.0.0 (demo)
 
 Glind and survive.
 
+Play in web: https://kbgamedev.itch.io/glinder
+
 Project update plan: sabotage mode, 2D mode, 2P mode. PvP mode. 2P+ mode.
 
 Support platforms: Android, WebGL, Standalone.
